@@ -3,9 +3,8 @@ layout: resume
 title: Isabel Aranguren's Resume
 ---
 # Isabel Aranguren 
-- I would change these links to your email.
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="isabelarangurenl01@gmail.com">Email</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/isabel-aranguren-a6a4a0215/">LinkedIn</a>
 | <a href="https://github.com/isabelaranguren">GitHub</a>
@@ -19,12 +18,6 @@ title: Isabel Aranguren's Resume
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 3.8 Major GPA
-<<<<<<< HEAD
-- Maybe add any organizations or societies you are involved in if any?
-=======
-- Maybe list any organizations or societies you are or have been involved in?
-
->>>>>>> edcb05a6eea8e5bfa09c0fea4faeb89500bf0a66
 
 ## Related Experience
 
