@@ -18,7 +18,12 @@ title: Isabel Aranguren's Resume
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 3.8 Major GPA
+<<<<<<< HEAD
 - Maybe add any organizations or societies you are involved in if any?
+=======
+- Maybe list any organizations or societies you are or have been involved in?
+
+>>>>>>> edcb05a6eea8e5bfa09c0fea4faeb89500bf0a66
 
 ## Related Experience
 
