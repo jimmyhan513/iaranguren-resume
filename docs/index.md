@@ -18,6 +18,7 @@ title: Isabel Aranguren's Resume
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 3.8 Major GPA
+- Maybe list any organizations or societies you are or have been involved in?
 
 
 ## Related Experience
@@ -27,13 +28,13 @@ __Brigham Young University - Idaho__, Rexburg, ID
 `September 2021 - December 2021`
 __Allucent__, Rexburg, Idaho (Remote)
 - Participated in project meetings, with technical staff members
-- Hands on experience on working Cypress for Vue application end to end testing.
+- Hands on experience on working Cypress for Vue application end to end testing
 - Development of automation systems to increase the team’s performance and quality
 
 
 ### Relevant Courses:
-- IT Management and Security, Database Design Development, 
-- Survey Object-Oriented Programming/Data Structures, 
+- IT Management and Security, Database Design Development
+- Survey Object-Oriented Programming/Data Structures
 - Mobile Application Development and Sofware Design & Development
 
 ### Wordpress Developer
